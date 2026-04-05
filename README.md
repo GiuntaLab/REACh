@@ -1,2 +1,2 @@
-# REACh
-Repeat Enrichment Analysis of ChIP-seq datasets
+# READs
+Repeat Enrichment Analysis of Sequencing datasets
