@@ -1,2 +1,2 @@
 # READs
-Repeat Enrichment Analysis of Sequencing datasets
+Repeat Enrichment Analysis of Sequencing Datasets
